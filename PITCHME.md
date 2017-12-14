@@ -1,5 +1,6 @@
 # scrumPitch
-'''
+
+```html
 package main
 
 import "fmt"
@@ -10,7 +11,7 @@ func main() {
 @[1](Go package main for executable command)
 @[3]
 @[5-7]
-'''
+```
 
 * https://github.com/gitpitch/gitpitch/wiki/Getting-Started
 * https://github.com/gitpitch/gitpitch/wiki/Developing-Testing-Locally
