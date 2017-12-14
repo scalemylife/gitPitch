@@ -89,3 +89,9 @@ Month, January, February, March, April, May, June, July
 My first dataset, 65, 59, 80, 81, 56, 55, 40
 My second dataset, 28, 48, 40, 19, 86, 27, 90
 </canvas>
+
++++
+
+### Do the Math
+
+$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
