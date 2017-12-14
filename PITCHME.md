@@ -25,6 +25,14 @@ func main() {
 * https://github.com/gitpitch/gitpitch/wiki/Developing-Testing-Locally
 * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Offline
 
+---
+
+### Speaker Notes
+
+Note:
+Remember to explain why it's for everyone: no sign-up, nothing to install.
+Just MD. Then git-commit.
+
 +++
 
 ### Naturally
