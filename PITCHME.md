@@ -33,6 +33,8 @@ Note:
 Remember to explain why it's for everyone: no sign-up, nothing to install.
 Just MD. Then git-commit.
 
+For quick review: add ?n=true e.g. https://gitpitch.com/onetapbeyond/gen_metrics?n=true
+
 +++
 
 ### Naturally
