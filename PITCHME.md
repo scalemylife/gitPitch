@@ -33,6 +33,16 @@ func main() {
 
 ---
 
+## Images
+
+![Logo](assets/logo.jpg)
+
++++
+
+## Font Awesome
+
+@fa[thumbs-up](Sounds good to me!)
+
 ---
 
 <canvas data-chart="line">
