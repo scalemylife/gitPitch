@@ -1,3 +1,6 @@
 charts : true
 theme : white
 logo : assets/logo.png
+vertical-center : true
+slide-number : true
+footnote : "Awesome."
