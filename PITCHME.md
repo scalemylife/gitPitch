@@ -51,7 +51,7 @@ For quick review: add ?n=true e.g. https://gitpitch.com/onetapbeyond/gen_metrics
 
 ## Images
 
-![Logo](assets/logo.jpg)
+![Logo](assets/logo.png)
 
 +++
 
