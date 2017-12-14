@@ -15,6 +15,12 @@ func main() {
 
 +++
 
+### Code-Delimiter Slides
+##### Using
+#### **Code-Presenting**
+
+---
+
 * https://github.com/gitpitch/gitpitch/wiki/Getting-Started
 * https://github.com/gitpitch/gitpitch/wiki/Developing-Testing-Locally
 * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Offline
