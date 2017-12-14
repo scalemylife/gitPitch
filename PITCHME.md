@@ -1,9 +1,6 @@
 # scrumPitch
 
-TOC
-@title[Agenda]
-
-
+@title[Custom Code Title]
 ## Code
 
 ```html
