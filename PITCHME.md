@@ -95,3 +95,9 @@ My second dataset, 28, 48, 40, 19, 86, 27, 90
 ### Do the Math
 
 $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
+
++++
+
+TOC
+@title[Some custom label]
+
